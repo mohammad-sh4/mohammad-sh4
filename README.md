@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Mohammad 👋
 
-<!--
-**mohammad-sh4/mohammad-sh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a programmer based in Bushehr. I love coding.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a university project that automates unit selection.
+- 🌱 I’m currently learning Django for web development and exploring Machine Learning concepts.
+- 👯 I’m looking to collaborate on projects related to web automation, Django, and Machine Learning.
+- 💬 Ask me about Selenium, Django, Python, or any related topics!
+- 📫 How to reach me: m.beshardeh83@gmail.com
+
+## Skills
+
+- Programming Languages: 🐍 Python, ☕ Java, 💻 C++, 🌐 HTML
+- Frameworks/Libraries: 🌐 Django, Selenium
+- Tools: Git, Docker
+
+## Connect with Me
+
+- [LinkedIn Profile](https://www.linkedin.com/in/mohammad-beshardeh-6a27a632a)
